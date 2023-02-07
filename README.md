@@ -1,4 +1,4 @@
-# life_expectancy_adn_gdp
+# life_expectancy_and_gdp
 
 Tento projekt jsem absolvoval v rámci vzdělávací platformy.
 
